@@ -1,0 +1,1 @@
+alter table entrega rename column destinario_bairro to destinatario_bairro;
